@@ -1,4 +1,4 @@
-# Filipino Devs Open Source License
+# Filipino Devs Open Source Projects
 
 Listing down all the Filipino Devs Open Source Project out there so others can contribute to it too. :)
 
